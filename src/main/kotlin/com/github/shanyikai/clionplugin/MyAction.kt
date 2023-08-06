@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.shanyikai.clionplugin
 
 import com.intellij.openapi.actionSystem.AnAction
 import com.intellij.openapi.actionSystem.AnActionEvent
